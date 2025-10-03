@@ -91,25 +91,6 @@ The project combines hardware and software solutions to monitor, manage, and rep
 
 ---
 
-// Simplified code excerpts (see appendix for full implementation)
-#include <Wire.h>
-#include <LiquidCrystalPCF8574.h>
-#include <DHT.h>
-#include <SoftwareSerial.h>
-#include <TinyGPS.h>
-
-// Example: Reading temperature/humidity and updating LCD
-float humidity = dht.readHumidity();
-float temperature = dht.readTemperature();
-lcd.print(temperature);
-lcd.print(humidity);
-// Additional logic for GPS, buzzer alerts, and cloud sync
-
-
-Full source code available in the appendix.
-
----
-
 ## VIII. Conclusions & Future Scope
 
 ### Conclusion
@@ -134,7 +115,12 @@ ClotGuard integrates IoT, blockchain, and smart sensors for safe storage, transp
 
 ---
 
+## Winner Certificate 
+<p align="center">
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/top10certificate.jpg" alt="Project Team Photo" width="600"/>
+</p>
 
-
-## VII. Algorithm and Software Features
-
+## Cash Prize Voucher 
+<p align="center">
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/Cash.jpg" alt="Project Team Photo" width="600"/>
+</p>

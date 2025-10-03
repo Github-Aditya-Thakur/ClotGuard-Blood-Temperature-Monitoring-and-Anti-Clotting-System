@@ -86,7 +86,7 @@ The project combines hardware and software solutions to monitor, manage, and rep
   <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/3.jpg" alt="Sensor Dashboard Demo" width="600"/>
 </p>
 <p align="center">
-  <img src=https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/4.jpg" alt="Project Team Photo" width="600"/>
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/4.jpg" alt="Project Team Photo" width="600"/>
 </p>
 
 ---

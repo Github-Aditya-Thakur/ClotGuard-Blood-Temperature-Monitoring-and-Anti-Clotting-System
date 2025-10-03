@@ -65,19 +65,14 @@ The project combines hardware and software solutions to monitor, manage, and rep
 
 ---
 
-### Hardware Block Diagram
+### Internal Expo 
 
 <p align="center">
   <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/1.jpg" alt="ClotGuard Hardware Overview" width="600"/>
 </p>
 
 ---
-
-## VI. Results & Demonstrations
-
-- Successfully displayed real-time temperature and humidity readings on the LCD panel
-- GPS tracking and alert system operational
-- Fully assembled blood preservation circuit box
+## Final-External Expo @ V-LAUNCH PAD 2025
 
 <p align="center">
   <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/2.jpg" alt="System Demonstration" width="600"/>
@@ -88,6 +83,13 @@ The project combines hardware and software solutions to monitor, manage, and rep
 <p align="center">
   <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/4.jpg" alt="Project Team Photo" width="600"/>
 </p>
+
+---
+## VI. Results & Demonstrations
+
+- Successfully displayed real-time temperature and humidity readings on the LCD panel
+- GPS tracking and alert system operational
+- Fully assembled blood preservation circuit box
 
 ---
 
@@ -117,10 +119,10 @@ ClotGuard integrates IoT, blockchain, and smart sensors for safe storage, transp
 
 ## Winner Certificate 
 <p align="center">
-  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/top10certificate.jpg" alt="Project Team Photo" width="600"/>
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/top10certificate.jpg" alt="Certificate" width="600"/>
 </p>
 
 ## Cash Prize Voucher 
 <p align="center">
-  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/Cash.jpg" alt="Project Team Photo" width="600"/>
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/Cash.jpg" alt="Cash" width="600"/>
 </p>

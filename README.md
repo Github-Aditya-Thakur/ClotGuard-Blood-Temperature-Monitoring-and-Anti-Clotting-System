@@ -64,7 +64,7 @@ The project combines hardware and software solutions to monitor, manage, and rep
 - **Breadboard & Jumper Wires**: Rapid prototyping and testing setup
 
 ---
-
+ 
 ### Internal Expo 
 
 <p align="center">
@@ -93,7 +93,7 @@ The project combines hardware and software solutions to monitor, manage, and rep
 
 ---
 
-## VIII. Conclusions & Future Scope
+## VII. Conclusions & Future Scope
 
 ### Conclusion
 ClotGuard integrates IoT, blockchain, and smart sensors for safe storage, transparent tracking, and efficient inventory management. The prototype proves the feasibility of automated monitoring and robust logistics, minimizing spoilage and mishandling.
@@ -108,7 +108,7 @@ ClotGuard integrates IoT, blockchain, and smart sensors for safe storage, transp
 
 ---
 
-## IX. Real-World Applications
+## VIII. Real-World Applications
 
 - Hospital and blood bank inventory management
 - Emergency response for trauma care and surgeries

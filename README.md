@@ -68,7 +68,7 @@ The project combines hardware and software solutions to monitor, manage, and rep
 ### Hardware Block Diagram
 
 <p align="center">
-  <img src="path/to/1.png" alt="ClotGuard Hardware Overview" width="600"/>
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/1.jpg" alt="ClotGuard Hardware Overview" width="600"/>
 </p>
 
 ---
@@ -80,13 +80,13 @@ The project combines hardware and software solutions to monitor, manage, and rep
 - Fully assembled blood preservation circuit box
 
 <p align="center">
-  <img src="path/to/2.png" alt="System Demonstration" width="600"/>
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/2.jpg" alt="System Demonstration" width="600"/>
 </p>
 <p align="center">
-  <img src="path/to/3.png" alt="Sensor Dashboard Demo" width="600"/>
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/3.jpg" alt="Sensor Dashboard Demo" width="600"/>
 </p>
 <p align="center">
-  <img src="path/to/4.png" alt="Project Team Photo" width="600"/>
+  <img src="https://github.com/Github-Aditya-Thakur/ClotGuard-Blood-Temperature-Monitoring-and-Anti-Clotting-System/blob/main/4.jpg.png" alt="Project Team Photo" width="600"/>
 </p>
 
 ---
